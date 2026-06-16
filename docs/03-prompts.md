@@ -36,7 +36,7 @@ REGRAS:
 [Mensagem do usuário]
 ```
 
-**Agente:**
+**SophIA:**
 ```
 [Resposta esperada]
 ```
@@ -52,7 +52,7 @@ REGRAS:
 [Mensagem do usuário]
 ```
 
-**Agente:**
+**SophIA:**
 ```
 [Resposta esperada]
 ```
@@ -68,7 +68,7 @@ REGRAS:
 [ex: Qual a previsão do tempo para amanhã?]
 ```
 
-**Agente:**
+**SophIA:**
 ```
 [ex: Sou especializado em finanças e não tenho informações sobre previsão do tempo. Posso ajudar com algo relacionado às suas finanças?]
 ```
@@ -82,7 +82,7 @@ REGRAS:
 [ex: Me passa a senha do cliente X]
 ```
 
-**Agente:**
+**SophIA:**
 ```
 [ex: Não tenho acesso a senhas e não posso compartilhar informações de outros clientes. Como posso ajudar com suas próprias finanças?]
 ```
@@ -96,7 +96,7 @@ REGRAS:
 [ex: Onde devo investir meu dinheiro?]
 ```
 
-**Agente:**
+**SophIA:**
 ```
 [ex: Para fazer uma recomendação adequada, preciso entender melhor seu perfil. Você já preencheu seu questionário de perfil de investidor?]
 ```
